@@ -8,7 +8,7 @@
 
 * [Software catalouge](http://www.bristol.ac.uk/software/news/2015/38.html) - all the software we are able to download as studentsof the university of bristol.
 
-* [Library resources](http://www.bristol.ac.uk/library/find/) - I know everyone probably knows about this but for completness it is included. It is useful to simply be aware 
+* [Library resources](http://www.bristol.ac.uk/library/find/) - I know everyone probably knows about this but for completeness it is included. It is useful to simply be aware 
 
 
 ## Subscription based services
