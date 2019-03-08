@@ -10,6 +10,8 @@
 
 * [Library resources](http://www.bristol.ac.uk/library/find/) - I know everyone probably knows about this but for completeness it is included. It is useful to simply be aware 
 
+* [Careers service](http://www.bristol.ac.uk/careers/) - The career's service run many workshops with industry and academia, and is available to help for 2 years after you graduate.
+
 
 ## Subscription based services
 
